@@ -1,5 +1,5 @@
-# AOSP zero-common (Samsung Galaxy S6)
-Common device repository for zero (Samsung Galaxy S6)
+# AOSP zero-common (Samsung Galaxy Tab A6 2016 LTE)
+Common device repository for zero (Samsung Galaxy Tab A6 2016 LTE)
 
 -> Work In Progress. <-
 
@@ -19,6 +19,7 @@ Copyright (C) 2015-2016 Brandon McAnsh <brandon.mcansh@gmail.com>
 Copyright (C) 2017 Philip (corewell) Jacobs <p.jcs@icloud.com>
 Copyright (C) 2017 Lukas Berger <contact@lukasberger.at>
 Copyright (C) 2017 Luca (RakuDev) Polesel <lucapolesel@outlook.it>
+Copyright (C) 2017 Aljoshua (J0SH1X) Hell <aljoshua.hell@gmail.com>
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
