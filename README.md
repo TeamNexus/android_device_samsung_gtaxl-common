@@ -1,5 +1,5 @@
-# AOSP zero-common (Samsung Galaxy Tab A6 2016 LTE)
-Common device repository for zero (Samsung Galaxy Tab A6 2016 LTE)
+# AOSP gtaxl-common (Samsung Galaxy Tab A6 2016 LTE)
+Common device repository for gtaxl (Samsung Galaxy Tab A6 2016 LTE)
 
 -> Work In Progress. <-
 
